@@ -1,0 +1,8 @@
+{
+    "name": "mix-version-webpack-plugin",
+    "version": "0.1.0",
+    "author": "leunggamciu <gamciuleung@gmail.com>",
+    "description": "A webpack plugin to versioning webpack emitted assets",
+    "main": "src/index.js",
+    "license": "MIT"
+}
